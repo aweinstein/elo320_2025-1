@@ -27,7 +27,7 @@ int* give_me_mem(int N)
 {
 	int* p;
 	int i;
-	p = malloc(N * sizeof(int)); // Debiesemos verificar si retorna NULL. Ver ex_malloc_check.c
+	p = malloc(N * sizeof(int));
 	if(p) {
 		for(i=0; i<N; i++) {
 			*(p + i) = 10 * i;
