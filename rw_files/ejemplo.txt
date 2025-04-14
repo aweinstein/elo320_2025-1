@@ -1,0 +1,3 @@
+Archivo de ejemplo para probar el programa muestra_archivo.
+Esta es la segunda linea del archivo.
+Bye!
