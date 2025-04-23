@@ -1,0 +1,31 @@
+Este repositorio contiene los programas desarrollados en el marco de la asignatura Estructura de Datos y Algoritmos, dictada por el Departamento de Electrónica de la Universidad Técnica Federico Santa María.
+
+* 20250312
+- hola_mundo.c
+- ex_array.c
+- ex_funcion.c
+- ex_prepost.c
+- ex_tipos.c
+* 20250319
+- ex_pointer_aritmetic.c
+- ex_strcopy.c
+- ex_string_literal.c
+- ex_strlen.c
+* 20250324
+- ex_arr_pointers.c
+- ex_double_array.c
+* 20250326
+- ex_malloc.c
+- ex_malloc_check.c
+* 20250331
+- ex_list_basico.c
+* 20250402
+- ex_linked_list.c
+* 20250407
+- ex_double_linked_list.c
+* 20250414
+- ex_stack.c
+* 20250416
+- ex_buffer_circular.c
+* 20250421
+- ex_factorial.c
