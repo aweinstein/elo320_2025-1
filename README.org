@@ -1,5 +1,7 @@
 Este repositorio contiene los programas desarrollados en el marco de la asignatura Estructura de Datos y Algoritmos, dictada por el Departamento de Electrónica de la Universidad Técnica Federico Santa María.
 
+* rw_files
+- Ejemplo de manejo de archivos.
 * 20250312
 - hola_mundo.c
 - ex_array.c
@@ -29,3 +31,5 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 - ex_buffer_circular.c
 * 20250421
 - ex_factorial.c
+* 20250429
+- ex_bst.c
