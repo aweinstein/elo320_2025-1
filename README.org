@@ -2,6 +2,8 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 
 * rw_files
 - Ejemplo de manejo de archivos.
+* read_large_files
+- Ejemplo de cómo leer un archivo grande en memoria.
 * 20250312
 - hola_mundo.c
 - ex_array.c
